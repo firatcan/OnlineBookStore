@@ -1,0 +1,7 @@
+<map id="OOP2_PROJE.SQLmusicCd.VeriSayaci" name="OOP2_PROJE.SQLmusicCd.VeriSayaci">
+<area shape="rect" id="node2" href="$class_o_o_p2___p_r_o_j_e_1_1_s_q_lmusic_cd.html#ab6c9d9a63fe26e49b1635794c5d695c5" title="music&#45;cd kayitlarini 5li olmak sartiyla sqlden ceker " alt="" coords="269,71,497,112"/>
+<area shape="rect" id="node6" href="$class_o_o_p2___p_r_o_j_e_1_1_s_q_lmusic_cd.html#a1b16f690e1b3a39e68e10469e7837935" title="music&#45;cd kayitlarini sqlden ceker fakat bır onceki 5liyi kontrol ederek ceker " alt="" coords="269,136,497,177"/>
+<area shape="rect" id="node3" href="$class_o_o_p2___p_r_o_j_e_1_1_form_ana_ekran.html#ae68f1c41c612310a26a4a813beeda823" title="ekrandaki panelde music cd&#39;leri gosterir " alt="" coords="545,5,780,47"/>
+<area shape="rect" id="node4" href="$class_o_o_p2___p_r_o_j_e_1_1_form_urunler.html#ad0ef2c5fea9b41a4d5548cd8b3a22df9" title="bir sonraki 5 liyi gosterir " alt="" coords="560,71,765,112"/>
+<area shape="rect" id="node5" href="$class_o_o_p2___p_r_o_j_e_1_1_s_q_lmusic_cd.html#a24069bd053ae83a77f03e2e84d0d79fd" title="music&#45;cd kayitlarini sqlden 5li sekilde ceker ve formUrunler ekranına aktarir " alt="" coords="549,136,777,177"/>
+</map>

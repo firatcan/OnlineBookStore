@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OOP2_PROJE.AdminUser" Collapsed="true">
+    <Position X="8.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAACAAgAAAQAAAEAUAACAAggECBQAAAAAAAAA=</HashCode>
+      <FileName>AdminUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_PROJE.Book" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIACACAQAAAAmAAAAIgCAAAIAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Book.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_PROJE.Customer" Collapsed="true">
+    <Position X="10.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACAAgAAAAAAACAQAAQAEggAKAQAAABAAAAA=</HashCode>
+      <FileName>Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_PROJE.FormAdminEkrani" Collapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAUCASAAJCAAQACAIAACQHoAJggQCAAEBQAAAAA=</HashCode>
+      <FileName>FormAdminEkrani.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_PROJE.FormAnaEkran" Collapsed="true">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>Ou52FXu5AuPe3tMvISyAclHyERVQXxZifP19gaJiz80=</HashCode>
+      <FileName>FormAnaEkran.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_PROJE.FormEkleAdmin" Collapsed="true">
+    <Position X="18" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAgAAIAQAOAEAAAAEIKCIBiHgAAYAIAgAIAAAAAEACY=</HashCode>
+      <FileName>FormEkleAdmin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_PROJE.FormEkleDergi" Collapsed="true">
+    <Position X="19.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CSACAEAABKBEiEABEALIgIiCgBgBAAQARTAkQAAARAQ=</HashCode>
+      <FileName>FormEkleDergi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_PROJE.FormEkleKitap" Collapsed="true">
+    <Position X="21.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CQAAAEACCChEKGICMEKIAACCkhgYAAEBBEigDiCAZAQ=</HashCode>
+      <FileName>FormEkleKitap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_PROJE.FormEkleMuzikCd" Collapsed="true">
+    <Position X="14.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CQIkABAABCJkCEBREBOIgACCgAgAJBAAAAIgAAAARAY=</HashCode>
+      <FileName>FormEkleMuzikCd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_PROJE.FormKayitOl" Collapsed="true">
+    <Position X="16.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAgEAIQQAKAAAAAAAISCIBiHAAAIAIAgAAAAAAAEACU=</HashCode>
+      <FileName>FormKayitOl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_PROJE.FormOdemeEkrani" Collapsed="true">
+    <Position X="18" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>goQBEAAQgCIAEEAAjgTCFEACAAIKEAAAASSAQAIAAIk=</HashCode>
+      <FileName>FormOdemeEkrani.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_PROJE.FormProfilim" Collapsed="true">
+    <Position X="19.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEACAQAADAIAAAAAACAIAACAAIAAEAAAAAEAAAAAgE=</HashCode>
+      <FileName>FormProfilim.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_PROJE.FormSepet" Collapsed="true">
+    <Position X="21.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>cBARBAADAjECBIQAJBCEAkAOAABAAgGQAAAIQIihAIE=</HashCode>
+      <FileName>FormSepet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_PROJE.FormSifremiUnuttum" Collapsed="true">
+    <Position X="14.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAEBACAACAAAACAAAAAAAAAAAIAAAEgAA=</HashCode>
+      <FileName>FormSifremiUnuttum.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_PROJE.FormSiparisAlındı" Collapsed="true">
+    <Position X="16.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>cIAgABAAwCAAAAAAAACAAAACAIAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>FormSiparisAlındı.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_PROJE.FormSiparisler" Collapsed="true">
+    <Position X="18" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAIAACAAgACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FormSiparisler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_PROJE.FormUrun" Collapsed="true">
+    <Position X="19.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIiEQEBACAikIECIAKBgABCAAAAQAAACCIIiIAIAAE=</HashCode>
+      <FileName>FormUrun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_PROJE.FormUrunler" Collapsed="true">
+    <Position X="21.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>cN4rEAIJBiESgEMAoITBiFImiIAAQBIx2C4+0QAAD4k=</HashCode>
+      <FileName>FormUrunler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_PROJE.FormUyeGirisi" Collapsed="true">
+    <Position X="14.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAUCAQAAAARACABAACAQBAAAABAAACAAAAACA=</HashCode>
+      <FileName>FormUyeGirisi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_PROJE.gosterDergi" Collapsed="true">
+    <Position X="2.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAgAAAAAAQAAAAQAAAAAAA=</HashCode>
+      <FileName>gosterDergi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_PROJE.gosterKitap" Collapsed="true">
+    <Position X="5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>gosterKitap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_PROJE.gosterMusicCD" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAIAAAAAAAIBAAAAAAAAAAA=</HashCode>
+      <FileName>gosterMusicCD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_PROJE.gosterUrun" Collapsed="true">
+    <Position X="2.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gosterUrun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_PROJE.grupUrunleri" Collapsed="true">
+    <Position X="16.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIACAAEIAABAAAOAAAAIAAAAiAAAAAKAAA=</HashCode>
+      <FileName>grupUrunleri.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_PROJE.imageİndirNet" Collapsed="true">
+    <Position X="18" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAYAAAAAAAAAAEAAAAAAFA=</HashCode>
+      <FileName>imageİndirNet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_PROJE.LogKayit" Collapsed="true">
+    <Position X="19.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAgAAAEAAAAAEAAAAAAAAAAACAABAAAAA=</HashCode>
+      <FileName>LogKayit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_PROJE.Magazine" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQAAAAABAAA=</HashCode>
+      <FileName>Magazine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_PROJE.MusicCD" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQAAAAQAAAA=</HashCode>
+      <FileName>MusicCD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_PROJE.Product" Collapsed="true">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAIQAAgCAAAAAAAAQAAAAEABAAAgAAAAIAAgA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_PROJE.Program" Collapsed="true">
+    <Position X="21.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_PROJE.ShoppingCard" Collapsed="true">
+    <Position X="18" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EBCQBAEAEADEBIRAgBAEAkACEEBAAgKAAQAIAAAAAAA=</HashCode>
+      <FileName>ShoppingCard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_PROJE.SQL_SepetKayit" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SQL_SepetKayit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_PROJE.SQL_ShoppingCard" Collapsed="true">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SQL_ShoppingCard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_PROJE.SQL_User" Collapsed="true">
+    <Position X="12" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAQQAAAAAABAhAAACAACAAAEQAAAAAFAAAAAQAAAAA=</HashCode>
+      <FileName>SQL_User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_PROJE.SQL_Veri" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAEAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SQL_Veri.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_PROJE.SQLdergi" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgQAAAEAAABAEAACABAAEAAgRAIQAAAAQAAAIAAE=</HashCode>
+      <FileName>SQLdergi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_PROJE.SQLkitap" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAgBAAAAAEBQAEAAgRAKAAAIAAACIAAAA=</HashCode>
+      <FileName>SQLkitap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_PROJE.SQLmusicCd" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAQAAAkCAABAUAAAABgAEAAgRAIAAEAAAAAAAAAA=</HashCode>
+      <FileName>SQLmusicCd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_PROJE.User" Collapsed="true">
+    <Position X="9.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAIEAAAAAAAAAgEAAgA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_PROJE.Properties.Resources" Collapsed="true">
+    <Position X="14.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_PROJE.Properties.Settings" Collapsed="true">
+    <Position X="16.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

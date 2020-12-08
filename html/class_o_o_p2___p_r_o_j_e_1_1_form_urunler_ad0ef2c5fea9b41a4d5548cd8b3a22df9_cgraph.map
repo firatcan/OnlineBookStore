@@ -1,0 +1,14 @@
+<map id="OOP2_PROJE.FormUrunler.btnIleriGoster_Click" name="OOP2_PROJE.FormUrunler.btnIleriGoster_Click">
+<area shape="rect" id="node2" href="$class_o_o_p2___p_r_o_j_e_1_1_customer.html#a41575571b9b2c7d6d806302743db7f05" title="musteri tarafindan tiklanan butonlarin log kayitlarini tutan fonksiyon " alt="" coords="259,13,504,39"/>
+<area shape="rect" id="node5" href="$class_o_o_p2___p_r_o_j_e_1_1_s_q_lkitap.html#a42adee419e98f286a2dcb9789373e9fd" title="sql deki kitap nesnelerini 5 li sekilde ceker " alt="" coords="274,64,489,105"/>
+<area shape="rect" id="node7" href="$class_o_o_p2___p_r_o_j_e_1_1_s_q_lkitap.html#a4bb52b46d21ceaef72f724a464e79950" title="5li kitap nesnesini dondurur. " alt="" coords="277,130,486,157"/>
+<area shape="rect" id="node8" href="$class_o_o_p2___p_r_o_j_e_1_1_s_q_ldergi.html#a86be639666e70c7d2425866bd5cc24c4" title="dergileri sql veri tabanindan ceker ve 5li sekilde ekrana verir " alt="" coords="274,181,489,223"/>
+<area shape="rect" id="node10" href="$class_o_o_p2___p_r_o_j_e_1_1_s_q_ldergi.html#a507be75f583bdd9d37152f7208f9bf89" title="5li dergi nesnelerini dondurur " alt="" coords="277,247,486,274"/>
+<area shape="rect" id="node11" href="$class_o_o_p2___p_r_o_j_e_1_1_s_q_lmusic_cd.html#ab6c9d9a63fe26e49b1635794c5d695c5" title="music&#45;cd kayitlarini 5li olmak sartiyla sqlden ceker " alt="" coords="267,299,495,340"/>
+<area shape="rect" id="node13" href="$class_o_o_p2___p_r_o_j_e_1_1_s_q_lmusic_cd.html#ab61a70594f29a67010ee08bd8df83837" title="siniftali 5li listeyi geri dondurur " alt="" coords="265,365,497,391"/>
+<area shape="rect" id="node3" href="$class_o_o_p2___p_r_o_j_e_1_1_log_kayit.html#a906e0a6330953d4b1b478e32947da0e4" title="verileri kaydeder " alt="" coords="563,13,757,39"/>
+<area shape="rect" id="node4" href="$class_o_o_p2___p_r_o_j_e_1_1_log_kayit.html#aab53e0ebd663c78b55219abede91e3a7" title="OOP2_PROJE.LogKayit.dosya\lYazMusteriLog" alt="" coords="816,5,1019,47"/>
+<area shape="rect" id="node6" href="$class_o_o_p2___p_r_o_j_e_1_1_s_q_lkitap.html#aec9b4308267bfc72b9c6c7fdca33df48" title="sql tabanindaki son id yi ve toplam veri sayisini verir " alt="" coords="563,64,757,105"/>
+<area shape="rect" id="node9" href="$class_o_o_p2___p_r_o_j_e_1_1_s_q_ldergi.html#a7d4be43e2d6f5824aa05be4d90e86484" title="sqldeki veri sayisini ve son verinin idsini bulur " alt="" coords="563,181,757,223"/>
+<area shape="rect" id="node12" href="$class_o_o_p2___p_r_o_j_e_1_1_s_q_lmusic_cd.html#a5459dd5905c8a286044c6e78c8b67b7a" title="sqldeki ekli son elemanin id sini ve toplam eleman sayisini bulur " alt="" coords="552,299,768,340"/>
+</map>

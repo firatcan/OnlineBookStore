@@ -1,0 +1,6 @@
+<map id="OOP2_PROJE.FormAnaEkran.panelCDgoster" name="OOP2_PROJE.FormAnaEkran.panelCDgoster">
+<area shape="rect" id="node2" href="$class_o_o_p2___p_r_o_j_e_1_1_s_q_lmusic_cd.html#ab6c9d9a63fe26e49b1635794c5d695c5" title="music&#45;cd kayitlarini 5li olmak sartiyla sqlden ceker " alt="" coords="294,5,522,47"/>
+<area shape="rect" id="node4" href="$class_o_o_p2___p_r_o_j_e_1_1_s_q_lmusic_cd.html#ab61a70594f29a67010ee08bd8df83837" title="siniftali 5li listeyi geri dondurur " alt="" coords="292,71,524,98"/>
+<area shape="rect" id="node5" href="$class_o_o_p2___p_r_o_j_e_1_1goster_music_c_d.html#a137714980c4bd9326d73579b9011134d" title="musicCDleri grup urunlerınde artan sekılde gosterır " alt="" coords="288,123,528,164"/>
+<area shape="rect" id="node3" href="$class_o_o_p2___p_r_o_j_e_1_1_s_q_lmusic_cd.html#a5459dd5905c8a286044c6e78c8b67b7a" title="sqldeki ekli son elemanin id sini ve toplam eleman sayisini bulur " alt="" coords="576,5,792,47"/>
+</map>

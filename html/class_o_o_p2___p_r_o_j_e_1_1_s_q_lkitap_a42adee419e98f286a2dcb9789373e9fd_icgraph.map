@@ -1,0 +1,5 @@
+<map id="OOP2_PROJE.SQLkitap.kitaplariSQLdenCek" name="OOP2_PROJE.SQLkitap.kitaplariSQLdenCek">
+<area shape="rect" id="node2" href="$class_o_o_p2___p_r_o_j_e_1_1_form_ana_ekran.html#a62b9720d1f2f6e132b46cf71f70814a0" title="ekrandaki panelde kitaplari gosterir " alt="" coords="268,5,503,47"/>
+<area shape="rect" id="node3" href="$class_o_o_p2___p_r_o_j_e_1_1_form_urunler.html#ad0ef2c5fea9b41a4d5548cd8b3a22df9" title="bir sonraki 5 liyi gosterir " alt="" coords="283,71,488,112"/>
+<area shape="rect" id="node4" href="$class_o_o_p2___p_r_o_j_e_1_1_s_q_lkitap.html#a56ba0c2d8abc5490d24c1383c01c093a" title="kitaplari sql tabanindan ceker ve form urunler ekranina 5li sekilde aktarir " alt="" coords="286,136,485,177"/>
+</map>

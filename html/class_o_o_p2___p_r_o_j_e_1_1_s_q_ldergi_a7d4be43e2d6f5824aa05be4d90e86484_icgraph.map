@@ -1,0 +1,7 @@
+<map id="OOP2_PROJE.SQLdergi.VeriSayaci" name="OOP2_PROJE.SQLdergi.VeriSayaci">
+<area shape="rect" id="node2" href="$class_o_o_p2___p_r_o_j_e_1_1_s_q_ldergi.html#a86be639666e70c7d2425866bd5cc24c4" title="dergileri sql veri tabanindan ceker ve 5li sekilde ekrana verir " alt="" coords="247,71,461,112"/>
+<area shape="rect" id="node6" href="$class_o_o_p2___p_r_o_j_e_1_1_s_q_ldergi.html#a76ac8fc2c472829903eb6160458bbd54" title="dergileri sqlden bir onceki 5 liye gore kontrol ederek ceker " alt="" coords="247,136,461,177"/>
+<area shape="rect" id="node3" href="$class_o_o_p2___p_r_o_j_e_1_1_form_ana_ekran.html#a00369660e19ce42fd5ee354a210ea6f5" title="ekrandaki panelde dergileri gosterir " alt="" coords="509,5,744,47"/>
+<area shape="rect" id="node4" href="$class_o_o_p2___p_r_o_j_e_1_1_form_urunler.html#ad0ef2c5fea9b41a4d5548cd8b3a22df9" title="bir sonraki 5 liyi gosterir " alt="" coords="524,71,729,112"/>
+<area shape="rect" id="node5" href="$class_o_o_p2___p_r_o_j_e_1_1_s_q_ldergi.html#a14ceb4cdeb4aefc590689bfc3bbdb32a" title="dergileri sql tabanin ceker ve formurunler ekranina aktarir " alt="" coords="527,136,726,177"/>
+</map>
